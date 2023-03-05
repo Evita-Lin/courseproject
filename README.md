@@ -1,4 +1,4 @@
-# courseproject
+# data sets
 the first dataset is a combined and clean dataset of both test and training group.
 
 the smaller dataset contains only the mean and standard deviation for each measurement. 
