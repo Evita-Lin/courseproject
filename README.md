@@ -9,7 +9,7 @@ the run_analysis.R file is the process for the raw data to the clean dataset.
 
 
 
-in the run_analysis.R, i did:
+# in the run_analysis.R, i did:
 
 combine the labels and subjects id with the raw data.
 
